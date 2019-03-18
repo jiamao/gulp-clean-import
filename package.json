@@ -1,0 +1,18 @@
+{
+  "name": "gulp-clean-import",
+  "version": "1.0.0",
+  "description": "清除es6模块中的import，以便合并后可直接使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "import"
+  ],
+  "author": "jiamao <haofefe@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^3.0.1"
+  }
+}
